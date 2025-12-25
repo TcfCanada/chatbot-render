@@ -1,5 +1,5 @@
 (function () {
-  const BACKEND_URL = "https://TON-SERVICE.onrender.com/chat";
+  const BACKEND_URL = "https://chatbot-render-r1ov.onrender.com/chat";
 
   const style = document.createElement("style");
   style.innerHTML = `
